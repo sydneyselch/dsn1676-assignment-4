@@ -1,0 +1,22 @@
+h1 {
+    font-family: Helvetica;
+    text-transform: uppercase;
+    color: teal;
+    letter-spacing: -.125rem;
+}
+
+dl {
+     font-family: Helvetica;
+
+}
+
+dt {
+    font-size: 1rem;
+    float:left;
+}
+
+dd{
+    font-size: .75rem;   
+    float:right;
+}
+
